@@ -1,0 +1,15 @@
+h1{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("https://s3.envato.com/files/190826561/pencil%20IMG_0372.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+	border-width: 10px;
+	background-color: white;
+	border-style: ridge;
+}
